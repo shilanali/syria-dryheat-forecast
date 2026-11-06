@@ -17,14 +17,16 @@ It extends our earlier hackathon project, *Syria DryHeat Monitor*, which analyse
 SDG 13 (Climate Action), SDG 2 (Zero Hunger), SDG 6 (Clean Water and Sanitation).
 
 ## Files
-- [Idea_Proposal.pdf](Idea_Proposal.pdf): project idea, SDG relevance and literature examples.
+- [Problem_statement.pdf](Problem_statement.pdf): project idea, SDG relevance and literature examples.
 
 ## Team (Group 6)
 - Shilan Khalil
+- MHD Moumen Owdeh
+- Rama Albasha
 - Ahmad Al-Kharrat
 - Eman Aboud
-- Rama Albasha
-- MHD Moumen Owdeh
+
+
 
 ## Programme
 Frontier Tech Leaders Programme, AI for Climate (FTL Syria).
