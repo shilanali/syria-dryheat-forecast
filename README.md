@@ -1,9 +1,9 @@
 # Syria DryHeat Forecast
 
-Machine learning for one-month-ahead heat and drought early warning in Syria.
+Machine learning for upcoming periods heat and drought early warning in Syria.
 
 ## Overview
-Syria faces recurring droughts and extreme heat that threaten agriculture and water supply, yet local decision-makers have no early warning. This project builds a machine learning model that predicts whether the next month will be **high-risk (hot and dry)** in six Syrian cities: Damascus, Aleppo, Deir ez-Zor, Al-Hasakah, Latakia and Daraa.
+Syria faces recurring droughts and extreme heat that threaten agriculture and water supply, yet local decision-makers have no early warning. This project builds a machine learning model that predicts whether the upcoming periods will be **high-risk (hot and dry)** in Syrian cities: Damascus, Aleppo, Deir ez-Zor, Al-Hasakah, Latakia, Daraa and other Syrian cities.
 
 It extends our earlier hackathon project, *Syria DryHeat Monitor*, which analysed past trends (2000-2025), by adding a forecasting model.
 
@@ -14,7 +14,7 @@ It extends our earlier hackathon project, *Syria DryHeat Monitor*, which analyse
 - **Deployment:** a dashboard page where users select a city and see next month's risk.
 
 ## SDGs
-SDG 13 (Climate Action), SDG 2 (Zero Hunger), SDG 6 (Clean Water and Sanitation).
+SDG 13 (Climate Action), SDG 2 (Zero Hunger), SDG 6 (Clean Water and Sanitation), SDG 12 (Responsible Consumption and Production), SDG 15 (Life on Land).
 
 ## Files
 - [Problem_statement.pdf](Problem_statement.pdf): project idea, SDG relevance and literature examples.
