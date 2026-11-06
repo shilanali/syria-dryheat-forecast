@@ -11,7 +11,7 @@ It extends our earlier hackathon project, *Syria DryHeat Monitor*, which analyse
 - **Data:** NASA POWER daily data (temperature, rainfall, humidity, wind, soil moisture, solar radiation, pressure).
 - **Features:** lagged rainfall, number of very hot days, longest dry spell, anomaly versus the normal for the same month, and more.
 - **Models:** a historical-average baseline compared with Logistic Regression, Random Forest and XGBoost, using a chronological train/test split.
-- **Deployment:** a dashboard page where users select a city and see next month's risk.
+- **Deployment:** a dashboard page where users select a city and see upcoming periods' risk.
 
 ## SDGs
 SDG 13 (Climate Action), SDG 2 (Zero Hunger), SDG 6 (Clean Water and Sanitation), SDG 12 (Responsible Consumption and Production), SDG 15 (Life on Land).
